@@ -6,9 +6,9 @@ import (
 )
 
 const (
-	from = "kholikov.x@gmail.com"
-	pass = "Hamid123456"
-	to   = "kholikov.x@gmail.com"
+	from = "email@gmail.com"
+	pass = "password"
+	to   = "email@gmail.com"
 )
 
 type Mail struct {
